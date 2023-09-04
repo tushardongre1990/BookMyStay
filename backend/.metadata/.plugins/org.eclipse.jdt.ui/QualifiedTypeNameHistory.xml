@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.hbs.dto.CommanApiResponse"/>
+    <fullyQualifiedTypeName name="com.hbs.exception.BookingNotFoundException"/>
+    <fullyQualifiedTypeName name="com.hbs.service.HotelService"/>
+    <fullyQualifiedTypeName name="org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter"/>
+    <fullyQualifiedTypeName name="com.hbs.dto.FacilityFetchResponse"/>
+    <fullyQualifiedTypeName name="com.hbs.dto.HotelDto"/>
+    <fullyQualifiedTypeName name="com.hbs.dto.LocationFetchResponse"/>
+    <fullyQualifiedTypeName name="com.hbs.dto.UserLoginResponse"/>
+    <fullyQualifiedTypeName name="com.hbs.dto.UserDto"/>
+    <fullyQualifiedTypeName name="com.hbs.service.LocationService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.BeanUtils"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+</qualifiedTypeNameHistroy>

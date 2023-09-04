@@ -1,0 +1,18 @@
+package com.hbs.dto;
+
+import java.util.Set;
+
+import com.hbs.entity.Facility;
+
+public class FacilityFetchResponse extends CommonApiResponse { 
+	
+	private Set<Facility> facilities;
+
+	public Set<Facility> getFacilities() {
+		return facilities;
+	}
+
+	public void setFacilities(Set<Facility> facilities) {
+		this.facilities = facilities;
+	}
+}

@@ -1,0 +1,18 @@
+package com.hbs.dto;
+
+import java.util.List;
+
+import com.hbs.entity.Hotel;
+
+public class HotelAddResponse extends CommonApiResponse {
+
+	List<Hotel> hotels;
+
+
+	public void setHotels(List<Hotel> hotels) {
+		this.hotels = hotels;
+	}
+	
+	
+	
+}
